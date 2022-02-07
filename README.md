@@ -22,12 +22,10 @@ Both apis are in trouble due to the number of requests, if you know any other to
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [Doddle - Become an Artist in a Minute](https://github.com/NaserElziadna/doddle);
-<!-- - 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI);  -->
 - 👯 I’m looking to collaborate on [Doddle - Become an Artist in a Minute](https://github.com/NaserElziadna/doddle) and Other Project;
-<!-- - 🤔 I’m looking for help with Design Pattern 😭; -->
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I Never Stopped Learning and I always motivate people near me;
 - 📫 How to reach me: elziadna10@gmail.com;
