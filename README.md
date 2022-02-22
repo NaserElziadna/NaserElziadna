@@ -1,6 +1,9 @@
+<!-- Visitor Count badge -->
+![Visitor Count](https://profile-counter.glitch.me/{NaserElziadna}/count.svg)
+
 <!-- Your title -->
 ## Hi, I'm Naser Elziadna, a Developer 🚀 from Israel.
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+Print&color=%2336BCF7&size=21&lines=Greetings%2C+Vistor.;Feel+Free+to+Follow.;Give+a+%E2%9C%A8+to+keep+%F0%9F%90%9B%F0%9F%90%9B+away.)](https://git.io/typing-svg)
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
